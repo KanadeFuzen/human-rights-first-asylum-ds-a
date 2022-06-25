@@ -63,7 +63,7 @@ Then open http://0.0.0.0:5000 in your browser. The application should be running
   
 ###### Labs 37
 [Minh Nguyen](https://github.com/minh14496)   
-[Waqas Khwaja](https://github.com/WaqasKhwaja)   
+[Kanade Fuzen](https://github.com/kanadefuzen)   
 [Jason Young](https://github.com/yaobviously)   
 [Andrew Lee](https://github.com/andrewlee977)   
 [Michael Carrier](https://github.com/mikecarrier4)   
